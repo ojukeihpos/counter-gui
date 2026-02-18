@@ -1,3 +1,3 @@
 <Solution>
-  <Project Path="counter-gui/HakureiCounter.csproj" />
+  <Project Path="HakureiCounter/HakureiCounter.csproj" />
 </Solution>
